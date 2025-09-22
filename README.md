@@ -1,1 +1,7 @@
-[es1at.github.io.](https://es1at.github.io/rgb_light_webgl/)
+[rgb_light_webgl](https://es1at.github.io/rgb_light_webgl/)
+
+## 遊び方
+- マスをクリックして光源を配置・削除します（左右クリックで切り替え）。
+- 光は縦横に伸び、交わると色が合成されます。
+- 盤面上のターゲットマスが指定された色と一致すると進行度が上がります。
+- すべてのターゲットマスが条件を満たすとクリアとなります（例: 0/5 → 5/5）。
